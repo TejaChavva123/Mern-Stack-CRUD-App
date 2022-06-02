@@ -1,0 +1,55 @@
+*{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.heading{
+  text-align: center;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
+  margin:20px;
+  color:darkred;
+  text-transform: uppercase;
+}
+
+.App{
+  width: 800px ;
+  margin:auto;
+}
+
+.table{
+  text-align: center;
+}
+
+.action{
+  cursor: pointer;
+}
+
+.action a{
+  margin-left:10px;
+}
+.btn-success{
+  text-align:center;
+  position:absolute;
+  right:10%;
+}
+.btn-success a{
+  text-decoration: none;
+  color:white;
+}
+.btn-success a:hover{
+  color:white;
+}
+
+
+.add-form{
+  width:400px;
+  margin:auto;
+}
+
+.add-form div{
+  margin:20px;
+}
+
+.btn-primary{
+  width:100%;
+}
